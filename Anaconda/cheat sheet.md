@@ -1,3 +1,5 @@
+## Conda Prompt Commands
+
 ### Update all packages after a clean install.
 
 `conda update -all`
@@ -32,3 +34,11 @@ To install package with a specific version write it as follows: python=3
 
 ### Install Jupyter notebook in Anaconda
 `conda install jupyter notebook`
+
+### Run jupyter notebook
+
+`jupyter notebook`
+
+### Stop jupyter notebook
+
+`ctrl + c` Needs to be done two times. Save all work first
