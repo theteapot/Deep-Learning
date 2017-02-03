@@ -24,6 +24,8 @@ To install package with a specific version write it as follows: python=3
 
 `conda env list`
 
-###In Windows activates the environment with the name env_name
+### Activates the environment with the name env_name
 
-`activate env_name`
+`activate env_name` for Windows
+
+`source activate env_name` for OSX/Linux
