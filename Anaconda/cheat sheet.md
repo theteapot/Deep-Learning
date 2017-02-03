@@ -29,3 +29,6 @@ To install package with a specific version write it as follows: python=3
 `activate env_name` for Windows
 
 `source activate env_name` for OSX/Linux
+
+### Install Jupyter notebook in Anaconda
+`conda install jupyter notebook`
