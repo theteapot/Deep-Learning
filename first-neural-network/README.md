@@ -1,4 +1,4 @@
-A neural network that predicts daily bike rental ridership
+A simple neural network that predicts daily bike rentals.
 
 ### References:
 
