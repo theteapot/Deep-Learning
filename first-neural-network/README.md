@@ -1,4 +1,4 @@
-A simple neural network that predicts daily bike rentals.
+A [simple neural network](https://github.com/Jason-Cooke/Deep-Learning/blob/master/first-neural-network/dlnd-your-first-neural-network.ipynb) that predicts daily bike rentals.
 
 ### References:
 
