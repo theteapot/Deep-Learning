@@ -7,3 +7,7 @@
 2. [Statistics](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 
 3. [Calculus](http://tutorial.math.lamar.edu/cheat_table.aspx#CalcCheat)
+
+## Text Book
+
+[Grokking Deep Learning ](https://www.manning.com/books/grokking-deep-learning)
