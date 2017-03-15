@@ -8,6 +8,10 @@
 
 3. [Calculus](http://tutorial.math.lamar.edu/cheat_table.aspx#CalcCheat)
 
+## Math Refreshers
+
+[Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+
 ## Text Book
 
 [Grokking Deep Learning ](https://www.manning.com/books/grokking-deep-learning)
