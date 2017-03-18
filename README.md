@@ -14,6 +14,8 @@
 
 [Cheat Sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 
+[Khan Academy Refresher](https://www.khanacademy.org/math/statistics-probability)
+
 ### Calculus
 
 [Cheat Sheet](http://tutorial.math.lamar.edu/cheat_table.aspx#CalcCheat)
