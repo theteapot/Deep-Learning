@@ -6,7 +6,9 @@
 
 [Cheat Sheet](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
-[Refresher](https://www.khanacademy.org/math/linear-algebra)
+[Khan Academy Refresher](https://www.khanacademy.org/math/linear-algebra)
+
+[Udacity Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 
 ### Statistics
 
