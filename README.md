@@ -30,6 +30,8 @@
 
 [Chart of Neural Nets](http://www.asimovinstitute.org/neural-network-zoo/) (as of 2016).
 
+[Mathematics of Machine Learning](http://datascience.ibm.com/blog/the-mathematics-of-machine-learning/)
+
 ## Github Pages
 
 [Convolutional Neural Network Notes from Stanford](http://cs231n.github.io/)
