@@ -20,7 +20,7 @@
 
 [Cheat Sheet](http://tutorial.math.lamar.edu/cheat_table.aspx#CalcCheat)
 
-[Derivatives of Multivariable Functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
+[Khan Academy Derivatives of Multivariable Functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
 
 ## Text Book
 
