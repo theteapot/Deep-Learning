@@ -22,6 +22,10 @@
 
 [Khan Academy Derivatives of Multivariable Functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
 
+## Packages
+
+[NumPy](http://www.numpy.org/)
+
 ## Text Book
 
 [Grokking Deep Learning ](https://www.manning.com/books/grokking-deep-learning)
