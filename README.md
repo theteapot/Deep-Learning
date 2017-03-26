@@ -26,6 +26,8 @@
 
 [Deep Learning By Google](https://www.udacity.com/course/deep-learning--ud730)
 
+[Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
+
 ## Packages
 
 [NumPy](http://www.numpy.org/)
