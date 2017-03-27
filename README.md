@@ -26,7 +26,7 @@
 
 [Deep Learning By Google](https://www.udacity.com/course/deep-learning--ud730)
 
-[Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
+[Deep Learning Nanodegree by Udacity](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
 ## Packages
 
