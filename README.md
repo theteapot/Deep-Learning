@@ -32,6 +32,8 @@
 
 [NumPy](http://www.numpy.org/)
 
+[Pandas](http://pandas.pydata.org/)
+
 ## Text Book
 
 [Grokking Deep Learning ](https://www.manning.com/books/grokking-deep-learning)
