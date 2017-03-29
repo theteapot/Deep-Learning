@@ -46,6 +46,8 @@
 
 [Mathematics of Machine Learning](http://datascience.ibm.com/blog/the-mathematics-of-machine-learning/)
 
+[Neural Networks Demystified](http://www.welchlabs.com/blog/?offset=1415393340000)
+
 ## Github Pages
 
 [Convolutional Neural Network Notes from Stanford](http://cs231n.github.io/)
