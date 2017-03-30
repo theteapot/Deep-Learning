@@ -34,6 +34,8 @@
 
 [Pandas](http://pandas.pydata.org/)
 
+[Scikit Learn](http://scikit-learn.org/stable/)
+
 ## Text Book
 
 [Grokking Deep Learning ](https://www.manning.com/books/grokking-deep-learning)
