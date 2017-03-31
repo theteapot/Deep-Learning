@@ -36,6 +36,10 @@
 
 [Scikit Learn](http://scikit-learn.org/stable/)
 
+## Libraries
+
+[TensorFlow](https://www.tensorflow.org/)
+
 ## Text Book
 
 [Grokking Deep Learning ](https://www.manning.com/books/grokking-deep-learning)
