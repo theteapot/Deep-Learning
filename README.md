@@ -40,11 +40,11 @@
 
 [TensorFlow](https://www.tensorflow.org/)
 
-## Text Book
+## Text Books
 
 [Grokking Deep Learning ](https://www.manning.com/books/grokking-deep-learning)
 
-## Blog Post
+## Blog Posts
 
 [Difference between AI, ML & DL](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 
